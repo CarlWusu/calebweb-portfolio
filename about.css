@@ -1,0 +1,64 @@
+/* Container for the About Me content */
+.about-content {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #EAF3FA;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* General Styles */
+.about-content h2,
+.about-content h3 {
+    color: #2C3E50;
+}
+
+.about-content p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #4A6B82;
+}
+
+/* Section Styling */
+section {
+    margin-bottom: 30px;
+}
+
+.intro p {
+    font-size: 18px;
+    color: #4A6B82;
+    margin-bottom: 20px;
+}
+
+.journey h3,
+.philosophy h3,
+.skills h3,
+.testimonials h3 {
+    font-size: 24px;
+    margin-top: 20px;
+    color: #2C3E50;
+}
+
+/* Skills Section */
+.skills ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.skills li {
+    font-size: 18px;
+    color: #2C3E50;
+    margin: 8px 0;
+}
+
+/* Testimonials Section */
+.testimonials p {
+    font-size: 18px;
+    font-style: italic;
+    background-color: #D9EAF4;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    color: #2C3E50;
+}
